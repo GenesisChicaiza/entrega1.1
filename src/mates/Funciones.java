@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package src.mates;
 
 
@@ -133,3 +134,7 @@ public class Funciones{
 
 
 }
+=======
+package src.mates;public class Funciones {
+}
+>>>>>>> origin/main
